@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <title>Programación para aprender</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ejemplo de HTML5">
+    <meta name="keywords" content="HTML5, CSS3, Javascript">
+    <link rel="shortcut icon" type="image/x-icon" href="principal.ico">
+       
+    <!-- Estilos Bootstrap 4 -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Iconos fonts awesome 5 -->
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <script src="js/all.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular-route.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular-resource.js"></script>
+
+    <script src="js/variables.js"></script>
+
+<!--  
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+    
+-->
+
+    <!-- <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/angular-ui-router.min.js"></script> -->
+    <script></script>
+    <script src="js/chirpApp.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <body ng-app="chirpApp">
+        
+        <!-- Zona del header -->
+        <div ng-include="'template/header.html'"></div>
+
+        <div ng-view>
+        </div>
+
+        <!-- <div ng-include="'template/presentacion.html'"></div>
+        <div ng-include="'template/nosotros.html'"></div>
+        <div ng-include="'template/proyectos.html'"></div> -->
+
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v9.0'
+    });
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/es_ES/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="1893665554007076">
+</div>
+
+        <!-- Zona del pié -->
+        <div ng-include="'template/footer.html'"></div>
+        <!-- jQuery first, then Tether, then Bootstrap JS. -->
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script>
+          /* function cargarHeader(){
+                  var header = document.getElementById('headerContactosId');
+                  //var header = document.getElementById("listaDesordenada").getElementsByTagName("li");
+                  //header.innerHTML='';
+                  var cadena = '';
+                  for(let contacto of contactosjs){
+                    var a=document.createElement('a');
+                    a.innerText =contacto.nombre;
+                    a.href = contacto.href;
+                    a.classList.add("dropdown-item");
+                    header.appendChild(a);
+                    cadena+='<a  class="dropdown-item" href="'+contacto.href+'">'+contacto.nombre+'</a>'
+                  }
+                  console.log('cadena')
+                  console.log(cadena)
+                  //header.innerHTML=cadena;
+          }
+          
+          function iniciar(){
+                  cargarHeader();
+          }
+          window.onload=iniciar;  */
+          </script>
+        
+
+        
+		
+	</body>
+</html>
