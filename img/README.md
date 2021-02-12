@@ -1,3 +1,3 @@
 
 
-![Presentación de fundador](img/Luis_Correa.PNG)
+![Presentación de fundador](img/Luis_Correa.jpg)
