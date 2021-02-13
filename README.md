@@ -6,7 +6,7 @@
 
 # Luis Correa 😃
 <p>
-Soy Desarrollador Semisenior .Net Full Stack. | Software Consultant | Community Speaker | Co-Founder @ [Programación para aprender](https://github.com/programacionparaaprender) | Embracing Technology | Creating Experiences
+Soy Desarrollador Semisenior .Net Full Stack. | Fundador @ [Programación para aprender](https://github.com/programacionparaaprender) 
 </p>
 
 ## Mis objetivos
@@ -19,7 +19,9 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 
 
 ## 👯 Comunidades
-- Ayudar a los estudiantes de informatica con el siguiente grupo @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
+- Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
+
+- Ayudar a los estudiantes de informatica con el siguiente grupo de telegram @ [Programación para aprender](https://t.me/joinchat/GVbIFIPX3MlQTtSJ)
 
 
 ## ⚡ Tecnologías
