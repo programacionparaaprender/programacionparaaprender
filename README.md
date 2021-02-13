@@ -22,24 +22,20 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 - Ayudar a los estudiantes de informatica con el siguiente grupo @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
 
 
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **Angular, React, VanillaJS**
-- Backend development using **ASP.NET Core, Node, Express**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **Cassandra / DataStax**
-- Robust full-stack system design implementation
-- Desktop application development using **UWP, WPF or WinForms**
-- Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Project Management and CD/CI using **Azure DevOps**
+## ⚡ Tecnologías
+Al desarrollas empleo:
+- Para el desarrollo Front-end **Angular, React, VueJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC**
+- Para el desarrollo Backend **ASP.NET Core, Node, Express, Laravel, NextJS, AdonisJS, Springframeworks**
+- Para el diseño arquitectonico **SQL Server, MariaDB, MongoDB, SQLite** 
+- Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native**
 
-## 📫 Contact Me
-- Twitter - [@gauravc12](https://twitter.com/gauravc12)
-- LinkedIn - [Gaurav Chouhan](https://in.linkedin.com/in/gauravc12)
-- Blog - [GC Codes](https://gc-codes.com)
+## 📫 Contactame
+- Twitter - [@programacionparaaprender](https://twitter.com/programacionpa1)
+- LinkedIn - [programacionparaaprender](https://www.linkedin.com/in/luis-correa-36477a1b7/)
+
 
 ---
-⭐️ From [gc-codes](https://github.com/gc-codes)
+⭐️ From [programacionparaaprender](https://github.com/programacionparaaprender)
 
 ### guias
 https://www.youtube.com/watch?v=1eEnboVooiY&feature=emb_title
