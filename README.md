@@ -40,5 +40,5 @@ Al desarrollas empleo:
 ⭐️ From [programacionparaaprender](https://github.com/programacionparaaprender)
 
 ### guias
-https://www.youtube.com/watch?v=1eEnboVooiY&feature=emb_title
-https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/gc-codes.md
+- https://www.youtube.com/watch?v=1eEnboVooiY&feature=emb_title
+- https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/gc-codes.md
