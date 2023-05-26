@@ -20,9 +20,6 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 ## 👯 Comunidades
 - Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
 
-- Ayudar a los estudiantes de informatica con el siguiente grupo de telegram @ [Programación para aprender](https://t.me/joinchat/GVbIFIPX3MlQTtSJ)
-
-
 ## ⚡ Tecnologías
 Al desarrollas empleo:
 - Para el desarrollo Front-end **Angular, React, VueJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC**
