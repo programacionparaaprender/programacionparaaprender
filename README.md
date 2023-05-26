@@ -5,7 +5,7 @@
 
 
 # Luis Correa 😃
-Soy Desarrollador Web Senior Full Stack. | Fundador [¡Programación para aprender!](https://github.com/programacionparaaprender) 
+Soy Desarrollador Web Senior Full Stack. | Fundador de [¡Programación para aprender!](https://github.com/programacionparaaprender) 
 
 
 ## Mis objetivos
