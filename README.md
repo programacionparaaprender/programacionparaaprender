@@ -9,7 +9,7 @@ Mis objetivos son responsabilidad, creatividad, voluntad de saber, proactividad 
 </p>
 
 ## 🧐 Acerca de
-Además de estar sentado en un escritorio y codificar solo para entregar algo que hará del mundo un lugar mejor, estoy trabajando en @ [Programación para aprender](https://www.facebook.com/ProgramacionParaAprender) y dar recursos en código a la próxima generación de ingenieros y desarrolladores.
+Además de estar sentado en un escritorio y codificar solo para entregar algo que hará del mundo un lugar mejor, estoy trabajando en @ [Programación para aprender](https://www.facebook.com/ProgramacionParaAprender) y dar recursos en código a la próxima generación de desarrolladores.
 
 ## 👯 Comunidades
 - Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
