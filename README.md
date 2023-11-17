@@ -26,6 +26,8 @@ Al desarrollas empleo:
 ## 📫 Contactame
 - Twitter - [@programacionparaaprender](https://twitter.com/programacionpa1)
 - LinkedIn - [programacionparaaprender](https://www.linkedin.com/in/luis-correa-36477a1b7/)
+- Tiktok - [programacionparaaprender](https://www.tiktok.com/@programacionparaaprender)
+- youtube - [programacionparaaprender](https://www.youtube.com/channel/UCME7YRDqLsZdYagVMi75reQ)
 
 ---
 ⭐️ From [programacionparaaprender](https://github.com/programacionparaaprender)
