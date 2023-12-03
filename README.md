@@ -1,8 +1,18 @@
 <img src="img/Luis_Correa.jpg" alt="Size Limit logo by Anton Lovchikov" width="500" height="500">
 
 # Luis Correa 😃
-Soy Desarrollador Web Senior Full Stack. | Fundador de [¡Programación para aprender!](https://github.com/programacionparaaprender) 
-
+<p>
+Desarrollador Web Full Stack 
+</p>
+<p>
+SCRUM Master junior 
+</p>
+<p>
+Devops junior 
+</p>
+<p>
+Fundador de [¡Programación para aprender!](https://github.com/programacionparaaprender) 
+</p>
 ## Mis objetivos
 <p>
 Mis objetivos son responsabilidad, creatividad, voluntad de saber, proactividad y trabajo en equipo.
