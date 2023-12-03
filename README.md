@@ -13,6 +13,7 @@ Devops junior
 <p>
 Fundador de [¡Programación para aprender!](https://github.com/programacionparaaprender) 
 </p>
+
 ## Mis objetivos
 <p>
 Mis objetivos son responsabilidad, creatividad, voluntad de saber, proactividad y trabajo en equipo.
