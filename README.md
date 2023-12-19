@@ -11,6 +11,9 @@ SCRUM Master junior
 Devops junior 
 </p>
 <p>
+Software Architect junior pending 
+</p>
+<p>
 Fundador de [¡Programación para aprender!](https://github.com/programacionparaaprender) 
 </p>
 
