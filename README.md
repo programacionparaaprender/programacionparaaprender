@@ -1,4 +1,4 @@
-<img src="img/Luis_Correa.jpg" alt="Size Limit logo by Anton Lovchikov" width="500" height="500">
+<img src="img/Luis_Correa2.jpg" alt="Size Limit logo by Anton Lovchikov" width="500" height="500">
 
 # Luis Correa 😃
 <p>
