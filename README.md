@@ -2,7 +2,7 @@
 
 # Luis Correa 😃
 <p>
-Desarrollador Web Full Stack 
+Desarrollador Web Senior Full Stack 
 </p>
 <p>
 SCRUM Master junior 
