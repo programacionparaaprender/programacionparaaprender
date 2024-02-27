@@ -4,10 +4,10 @@
 <p>
 Experiencia en:
 </p>
->- Desarrollador Web Senior Full Stack
->- SCRUM Master junior
->- Devops junior
->- Software Architect junior
+- Desarrollador Web Senior Full Stack <br />
+- SCRUM Master junior <br />
+- Devops junior <br />
+- Software Architect junior <br />
 <p>
 Fundador de [Programación para aprender](https://github.com/programacionparaaprender) 
 </p>
