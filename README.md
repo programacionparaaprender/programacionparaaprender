@@ -2,19 +2,14 @@
 
 # Luis Correa 😃
 <p>
-Desarrollador Web Senior Full Stack 
+Experiencia en:
 </p>
+- Desarrollador Web Senior Full Stack
+- SCRUM Master junior
+- Devops junior
+- Software Architect junior
 <p>
-SCRUM Master junior 
-</p>
-<p>
-Devops junior 
-</p>
-<p>
-Software Architect junior
-</p>
-<p>
-Fundador de [¡Programación para aprender!](https://github.com/programacionparaaprender) 
+Fundador de [Programación para aprender](https://github.com/programacionparaaprender) 
 </p>
 
 ## Mis objetivos
@@ -33,7 +28,7 @@ Al desarrollas empleo:
 - Para el desarrollo de microservicios **Springcloud**
 - Para el desarrollo de microfrontend **React, Angular, Vuejs**
 - Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC**
-- Para el desarrollo Backend **ASP.NET Core, Node, Express, Laravel, NextJS, AdonisJS, Springframeworks**
+- Para el desarrollo Backend **ASP.NET Core, Node, Express, Laravel, NestJS, AdonisJS, Springframeworks**
 - Para el diseño arquitectonico **SQL Server, Oracle DB, MariaDB, MongoDB, PostgreSQL, SQLite** 
 - Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native**
 
