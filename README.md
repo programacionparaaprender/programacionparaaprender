@@ -8,8 +8,6 @@ Experiencia en:
 - SCRUM Master junior <br />
 - Devops junior <br />
 - Software Architect junior <br />
-- Fundador de Programción para Aprender [Programacionparaaprender](https://github.com/programacionparaaprender) <br />
-
 
 ## Mis objetivos
 <p>
