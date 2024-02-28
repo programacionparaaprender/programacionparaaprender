@@ -22,12 +22,13 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 
 ## ⚡ Tecnologías
 Al desarrollas empleo:
-- Para el desarrollo de microservicios **Springcloud**
+- Para el desarrollo de microservicios **Springcloud (eureka server, config server, repositorio de properties, api gateway server, zuul server, oauth2.0)**
 - Para el desarrollo de microfrontend **React, Angular, Vuejs**
-- Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC**
-- Para el desarrollo Backend **ASP.NET Core, Node, Express, Laravel, NestJS, AdonisJS, Springframeworks**
-- Para el diseño arquitectonico **SQL Server, Oracle DB, MariaDB, MongoDB, PostgreSQL, SQLite** 
-- Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native**
+- Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC, Laravel, Codeigniter, cakePHP, Polymer**
+- Para el desarrollo Backend **ASP.NET Core, Node, Express, NestJS, AdonisJS, Springframeworks, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC, Laravel, Codeigniter, cakePHP**
+- Para el diseño arquitectonico **SQL Server, Oracle DB, MariaDB, MongoDB, PostgreSQL, SQLite, H2** 
+- Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native, Flutter**
+- Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, React, Net framework, Flutter)** 
 
 ## 📫 Contactame
 - Twitter - [@programacionparaaprender](https://twitter.com/programacionpa1)
