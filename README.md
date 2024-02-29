@@ -30,6 +30,10 @@ Al desarrollas empleo:
 - Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native, Flutter**
 - Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, React, Net framework, Flutter)** 
 
+## ⭐️ Normas de desarrollo de software
+- Telefonica Perú - [@telefonica](https://ad-tdp.azurewebsites.net/)
+- Indra - [@indra](https://www.indracompany.com/)
+
 ## 📫 Contactame
 - Twitter - [@programacionparaaprender](https://twitter.com/programacionpa1)
 - LinkedIn - [programacionparaaprender](https://www.linkedin.com/in/luis-correa-36477a1b7/)
