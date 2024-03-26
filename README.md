@@ -33,6 +33,7 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 
 ## ⚡ Tecnologías de ciberseguridad
 - Pruebas **OWASP**
+- Criptografia
 
 ## ⚡ Tecnologías SCRUM
 - Para el desarrollo **Dailys, Backlog, Miro (miro.com), Kanban, Zoho Sprint, Trello, draw.io, Jira, Planner(Microsoft)**
