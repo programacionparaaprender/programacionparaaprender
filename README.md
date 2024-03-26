@@ -5,9 +5,11 @@
 Experiencia en:
 </p>
 - Desarrollador Web Senior Full Stack <br />
+- Ciberseguridad junior <br />
 - SCRUM Master junior <br />
 - Devops junior <br />
 - Software Architect junior <br />
+- QA junior <br />
 
 ## Mis objetivos
 <p>
@@ -20,8 +22,7 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 ## 👯 Comunidades
 - Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
 
-## ⚡ Tecnologías
-Al desarrollas empleo:
+## ⚡ Tecnologías de Desarrollo de Software
 - Para el desarrollo de microservicios **Springcloud (eureka server, config server, repositorio de properties, api gateway server, zuul server, oauth2.0)**
 - Para el desarrollo de microfrontend **React, Angular, Vuejs**
 - Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC, Laravel, Codeigniter, cakePHP, Polymer**
@@ -29,6 +30,23 @@ Al desarrollas empleo:
 - Para el diseño arquitectonico **SQL Server, Oracle DB, MariaDB, MongoDB, PostgreSQL, SQLite, H2** 
 - Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native, Flutter**
 - Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, React, Net framework, Flutter)** 
+
+## ⚡ Tecnologías de ciberseguridad
+- Pruebas **OWASP**
+
+## ⚡ Tecnologías SCRUM
+- Para el desarrollo **Dailys, Backlog, Miro (miro.com), Kanban, Zoho Sprint, Trello, draw.io, Jira, Planner(Microsoft)**
+
+## ⚡ Tecnologías DevOps
+- Para el desarrollo **Jenkins, Sonarqube**
+
+## ⚡ Tecnologías Software Architect
+- Para el desarrollo **Microservicios, UML 2.x, Modelo C4, draw.io**
+
+
+## ⚡ Tecnologías QA
+- Para el desarrollo pruebas unitarias **Spring, net, net core** <br />
+- Diagramas de casos de uso <br />
 
 ## ⭐️ Normas de desarrollo de software
 - Telefonica Perú - [@telefonica](https://ad-tdp.azurewebsites.net/)
