@@ -5,7 +5,8 @@
 Experiencia en:
 </p>
 - Desarrollador Web Senior Full Stack <br />
-- Ciberseguridad junior <br />
+- Analista de Seguridad junior <br />
+- Arquitecto de Seguridad junior <br />
 - SCRUM Master junior <br />
 - Devops junior <br />
 - Software Architect junior <br />
@@ -31,7 +32,8 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 - Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native, Flutter**
 - Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, React, Net framework, Flutter)** 
 
-## ⚡ Tecnologías de ciberseguridad
+## ⚡ Tecnologías de Analista de Seguridad 
+- Ciberseguridad
 - Pruebas **OWASP**
 - Criptografia
 
@@ -45,9 +47,12 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 - Para el desarrollo **Microservicios, UML 2.x, Modelo C4, draw.io**
 
 
+
+
 ## ⚡ Tecnologías QA
 - Para el desarrollo pruebas unitarias **Spring, net, net core** <br />
 - Diagramas de casos de uso <br />
+- Postman, Jmeter <br />
 
 ## ⭐️ Normas de desarrollo de software
 - Telefonica Perú - [@telefonica](https://ad-tdp.azurewebsites.net/)
