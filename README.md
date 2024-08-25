@@ -55,7 +55,8 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 - Postman, Jmeter <br />
 
 ## ⭐️ Normas de desarrollo de software
-- Telefonica Perú - [@telefonica](https://ad-tdp.azurewebsites.net/)
+- Telefonica Perú capacitaciones gratuitas - [@telefonica](https://ad-tdp.azurewebsites.net/)
+- Telefonica Perú estilos empleados [@estilos](https://scgenesisdesignsystemdevendpointcdn.azureedge.net/components/card)
 - Indra - [@indra](https://www.indracompany.com/)
 
 ## 📫 Contactame
