@@ -11,6 +11,7 @@ Experiencia en:
 - Devops junior <br />
 - Software Architect junior <br />
 - QA junior <br />
+- Maquetado junior
 
 ## Mis objetivos
 <p>
@@ -23,7 +24,7 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 ## 👯 Comunidades
 - Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
 
-## ⚡ Tecnologías de Desarrollo de Software
+## ⚡ Tecnologías de Desarrollo de Software, Analista de Software, Analista Programador.
 - Para el desarrollo de microservicios **Springcloud (eureka server, config server, repositorio de properties, api gateway server, zuul server, oauth2.0)**
 - Para el desarrollo de microfrontend **React, Angular, Vuejs**
 - Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC, Laravel, Codeigniter, cakePHP, Polymer**
@@ -32,10 +33,11 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 - Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native, Flutter**
 - Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, React, Net framework, Flutter)** 
 
-## ⚡ Tecnologías de Analista de Seguridad 
+## ⚡ Tecnologías de Analista de Seguridad, Arquitecto de Seguridad, Security Champions. 
 - Ciberseguridad
 - Pruebas **OWASP**
 - Criptografia
+- Cornucopia
 
 ## ⚡ Tecnologías SCRUM
 - Para el desarrollo **Dailys, Backlog, Miro (miro.com), Kanban, Zoho Sprint, Trello, draw.io, Jira, Planner(Microsoft)**
