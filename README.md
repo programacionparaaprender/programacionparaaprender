@@ -1,5 +1,3 @@
-<img src="img/Luis Correa2.jpg" alt="Size Limit logo by Anton Lovchikov" width="500" height="600">
-
 # Luis Correa 😃
 <p>
 Experiencia en:
