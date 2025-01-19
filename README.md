@@ -1,14 +1,16 @@
-<img src="img/Luis Correa2.jpg" alt="Size Limit logo by Anton Lovchikov" width="500" height="600">
-
 # Luis Correa 😃
 <p>
 Experiencia en:
 </p>
 - Desarrollador Web Senior Full Stack <br />
+- Analista de Seguridad junior <br />
+- Arquitecto de Seguridad junior <br />
 - SCRUM Master junior <br />
 - Devops junior <br />
 - Software Architect junior <br />
 - Security Analyst junior <br />
+- QA junior <br />
+- Maquetado junior <br />
 
 
 ## Mis objetivos
@@ -16,11 +18,14 @@ Experiencia en:
 Mis objetivos son responsabilidad, creatividad, voluntad de saber, proactividad y trabajo en equipo.
 </p>
 
+
 ## 🧐 Acerca de
 Además de estar sentado en un escritorio y codificar solo para entregar algo que hará del mundo un lugar mejor, estoy trabajando en @ [Programación para aprender](https://www.facebook.com/ProgramacionParaAprender) y dar recursos en código a la próxima generación de desarrolladores.
 
+
 ## 👯 Comunidades
 - Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
+
 
 ## ⚡ Tecnologías Cloud
 Al desarrollar empleo:
@@ -34,6 +39,9 @@ Al desarrollar empleo:
 
 ## ⚡ Tecnologías
 Al desarrollar empleo:
+
+
+## ⚡ Tecnologías de Desarrollo de Software, Analista de Software, Analista Programador.
 - Para el desarrollo de microservicios **Springcloud (eureka server, config server, repositorio de properties, api gateway server, zuul server, oauth2.0)**
 - Para el desarrollo de microfrontend **React, Angular, Vuejs**
 - Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC, Laravel, Codeigniter, cakePHP, Polymer**
@@ -42,8 +50,30 @@ Al desarrollar empleo:
 - Para el desarrollo movil **Android Studio, Nativescript, Ionic, Xamarin, React Native, Flutter**
 - Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, React, Net framework, Flutter)** 
 
+## ⚡ Tecnologías de Analista de Seguridad, Arquitecto de Seguridad, Security Champions. 
+- Ciberseguridad
+- Pruebas **OWASP**
+- Criptografia
+- Cornucopia
+
+## ⚡ Tecnologías SCRUM
+- Para el desarrollo **Dailys, Backlog, Miro (miro.com), Kanban, Zoho Sprint, Trello, draw.io, Jira, Planner(Microsoft)**
+
+## ⚡ Tecnologías DevOps
+- Para el desarrollo **Jenkins, Sonarqube**
+
+## ⚡ Tecnologías Software Architect
+- Para el desarrollo **Microservicios, UML 2.x, Modelo C4, draw.io**
+
+
+## ⚡ Tecnologías QA
+- Para el desarrollo pruebas unitarias **Spring, net, net core** <br />
+- Diagramas de casos de uso <br />
+- Postman, Jmeter <br />
+
 ## ⭐️ Normas de desarrollo de software
-- Telefonica Perú - [@telefonica](https://ad-tdp.azurewebsites.net/)
+- Telefonica Perú capacitaciones gratuitas - [@telefonica](https://ad-tdp.azurewebsites.net/)
+- Telefonica Perú estilos empleados [@estilos](https://scgenesisdesignsystemdevendpointcdn.azureedge.net/components/card)
 - Indra - [@indra](https://www.indracompany.com/)
 
 ## 📫 Contactame
