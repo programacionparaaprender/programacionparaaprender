@@ -8,6 +8,8 @@ Experiencia en:
 - SCRUM Master junior <br />
 - Devops junior <br />
 - Software Architect junior <br />
+- Security Analyst junior <br />
+
 
 ## Mis objetivos
 <p>
@@ -20,8 +22,18 @@ Además de estar sentado en un escritorio y codificar solo para entregar algo qu
 ## 👯 Comunidades
 - Ayudar a los estudiantes de informatica con el siguiente grupo de facebook @ [Programación para aprender](https://www.facebook.com/groups/ProgramacionParaAprender)
 
+## ⚡ Tecnologías Cloud
+Al desarrollar empleo:
+- Para el desarrollo de microservicios en microsoft **Bitbucket, Azure repositories, Azure DB, Azure kubernetes Aks, Keyvault, TableStorate, Jenkins**
+- Para el desarrollo de microservicios en red hat **Bitbucket, Openshift, Oracle DB, MongoDB, Openshift kubernetes, Jenkins**
+- Para el desarrollo de microservicios en amazon **Codecommit, RDS, EKS**
+- Para el desarrollo de microfrontend en microsoft **Bitbucket, Azure repositories, Blobstorare, Jenkins**
+- Para el desarrollo de microfrontend en red hat **Bitbucket, Jenkins**
+- Para el desarrollo de microfrontend en amazon **Codecommint, S3**
+
+
 ## ⚡ Tecnologías
-Al desarrollas empleo:
+Al desarrollar empleo:
 - Para el desarrollo de microservicios **Springcloud (eureka server, config server, repositorio de properties, api gateway server, zuul server, oauth2.0)**
 - Para el desarrollo de microfrontend **React, Angular, Vuejs**
 - Para el desarrollo Front-end **Angular, VueJS, React, NockoutJS, Django, thymeleaf, Primefaces, Webforms, ASP.NET MVC, Laravel, Codeigniter, cakePHP, Polymer**
