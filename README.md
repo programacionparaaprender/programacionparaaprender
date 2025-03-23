@@ -1,7 +1,6 @@
 # Luis Correa 😃
-<p>
-Experiencia en:
-</p>
+
+## ⚡ Experiencia en:
 - Desarrollador Web Senior Full Stack <br />
 - Analista de Seguridad junior <br />
 - Arquitecto de Seguridad junior <br />
