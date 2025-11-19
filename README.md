@@ -29,7 +29,7 @@ Al desarrollar empleo:
 - Para el desarrollo Front-end **Angular, VueJS**
 - Para el desarrollo Backend **ASP.NET Core, Springframeworks**
 - Para el diseño arquitectonico **SQL Server, Oracle DB, MariaDB, MongoDB, PostgreSQL** 
-- Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular, Net framework)** 
+- Para el desarrollo de geolocalización **Google Maps libreria drawing (VueJS, Angular)** 
 
 ## ⚡ Tecnologías SCRUM
 - Para el desarrollo **Dailys, Backlog, Miro (miro.com), Kanban, Zoho Sprint, Trello, draw.io, Jira, Planner(Microsoft)**
